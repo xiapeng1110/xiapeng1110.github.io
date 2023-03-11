@@ -12,6 +12,17 @@ body {
 	margin: 0;
 }
 */
+
+.nav li{
+	font-family: Georgia, serif;
+	padding: 8px 15px;
+	float: left;
+	list-style: none;
+	color: #000;
+    background-color: #ffffff; 
+	border-bottom: 2px #000 solid;
+}
+
 html {
   background-color: #eeeeee; 
 }
